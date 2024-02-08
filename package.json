@@ -1,0 +1,14 @@
+{
+  "name": "servidornods",
+  "version": "1.0.0",
+  "description": "Este es el primer sevidor de Node Js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julio Potes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
